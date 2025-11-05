@@ -44,14 +44,3 @@
 - `Lab8_ODE_Numerical_Methods.xlsx` - файл Excel с выполненными расчетами, таблицами результатов и сравнительными графиками
 
 ---
-
-## Структура репозитория
-
-numerical-methods-labs/
-├── README.md
-├── Lab4_Task_Description.docx
-├── Lab4_Newton_Interpolation.xlsx
-├── Lab8_Task_Description.docx
-└── Lab8_ODE_Numerical_Methods.xlsx
-
-*Реpository for numerical methods laboratory works - P-402*
